@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @Siyan-Luo
-- 👀 I’m interested in software engineering.
-- 🌱 I'm an undergraduate student majoring in applied chemistry now. However I'm not into wet lab at all LOL.
-- 💞️ I’m trying to switch my major to computer sicence or related field and start my career as software engineer.
-- 📫 Contact me at luosiyanemily@gmail.com
-- 🥰 I’m expecting to improve my programming skills with the assistance of GitHub and you guys!
-- 👩 Girls can do anything including coding
+
